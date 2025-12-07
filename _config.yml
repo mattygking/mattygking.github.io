@@ -1,0 +1,6 @@
+theme: jekyll-theme-minimal
+title: Your Name
+description: Software Engineer & AI Specialist
+logo: /assets/profile.jpg # Optional: Upload a photo to an 'assets' folder later if you want
+show_downloads: false
+google_analytics: 
