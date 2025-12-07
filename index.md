@@ -1,8 +1,8 @@
-# Hello, I'm Your Name.
+# Hello, I'm Matt.
 
-I am a **Software Engineer** and **AI Contributor** specializing in building accessible web experiences and fine-tuning Large Language Models.
+I am a **Data Scientist** and **AI Contributor**, specialising in model evaluation and AI Safety.
 
-[Email Me](mailto:your@email.com){: .btn} [View LinkedIn](https://linkedin.com/in/yourname){: .btn} [GitHub Profile](https://github.com/yourname){: .btn}
+[Email Me](mailto:matthew.gillie.1596@gmail.com){: .btn} [View LinkedIn]([https://linkedin.com/in/yourname](https://www.linkedin.com/in/matt-gillie-48375a10b/)){: .btn} [GitHub Profile](https://github.com/mattygking){: .btn}
 
 ---
 
@@ -14,11 +14,11 @@ I am a **Software Engineer** and **AI Contributor** specializing in building acc
 * Ensuring factual accuracy and code quality for LLM outputs.
 * Analyzing complex prompts to improve model reasoning capabilities.
 
-### **Junior Developer @ Tech Company Inc.**
+### **Data Scientist @ UK Governement**
 *2021 - 2023*
-* Built responsive front-end components using **React** and **TypeScript**.
-* Collaborated with UX designers to implement pixel-perfect interfaces.
-* Optimized database queries, reducing load times by 20%.
+* projects
+* Python
+* Team lead
 
 ---
 
